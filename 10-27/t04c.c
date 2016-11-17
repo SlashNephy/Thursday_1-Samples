@@ -1,3 +1,6 @@
+// t04c
+// f(x)=e^x, g(x)=-xとおく。y=f(x)とy=g(x)のグラフの交点を小数点10桁以上の精度で求めよ。ただし、指数関数はmath.hライブラリのexp(double x)関数を用いてよい。
+
 #include <stdio.h>
 #include <math.h>
 
