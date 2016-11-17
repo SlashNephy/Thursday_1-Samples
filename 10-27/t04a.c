@@ -1,3 +1,6 @@
+// t04a
+// 10次の単位行列を出力せよ
+
 #include <stdio.h>
 
 main() {
